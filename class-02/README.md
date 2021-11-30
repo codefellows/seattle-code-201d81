@@ -4,6 +4,11 @@
 
 ## Learning Objectives
 
+### Repls
+
+- [Class-01 Review](https://replit.com/@rkgallaway/201-class-01-review#index.js)
+- [If, Else, Logical Operators ](https://replit.com/@rkgallaway/201d81-class-02-if-else#index.js)
+
 ### Students will be able to
 
 #### Describe and Define
