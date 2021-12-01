@@ -5,7 +5,9 @@
 ## Learning Objectives
 
 ### Repls & Code Pen
-- [Class-02 Review](https://replit.com/@rkgallaway/201-class-02-review#index.js)
+- [Class-02 Review Repl](https://replit.com/@rkgallaway/201-class-02-review#index.js)
+- [Box Model Code Pen](https://codepen.io/rkgallaway/pen/mdByabj)
+- [Arrays, For Loops, and While Loops Repl](https://replit.com/@rkgallaway/201d81-class-03-arrays-for-while-loops#index.js)
 
 ### Students will be able to
 
