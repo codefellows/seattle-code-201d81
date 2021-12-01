@@ -4,6 +4,9 @@
 
 ## Learning Objectives
 
+### Repls & Code Pen
+- [Class-02 Review](https://replit.com/@rkgallaway/201-class-02-review#index.js)
+
 ### Students will be able to
 
 #### Describe and Define
