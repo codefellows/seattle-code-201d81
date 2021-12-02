@@ -4,6 +4,11 @@
 
 ## Learning Objectives
 
+### Repls & Code Pen
+
+- [CSS Positioning Code Pen](https://codepen.io/arpatterson31/pen/QWqwewe)
+- [Fun with functions! Repl](https://replit.com/@arpatterson31/Fun-with-functions#index.js)
+
 ### Students will be able to
 
 #### Describe and Define
