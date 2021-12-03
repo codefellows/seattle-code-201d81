@@ -4,6 +4,10 @@
 
 ## Learning Objectives
 
+### repls
+- [Class-04 Review](https://replit.com/@rkgallaway/201-class-04-review-functions-and-control-flow#index.js)
+- [Functions and Arrays](https://replit.com/@rkgallaway/201d81-class-05-functions-and-arrays#index.js)
+
 ### Students will be able to
 
 #### Describe and Define
