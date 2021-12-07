@@ -4,6 +4,10 @@
 
 ## Learning Objectives
 
+### repls
+- [Class-06 Review](https://replit.com/@rkgallaway/class-06-review-object-literals-and-methods#index.js)
+- [Constructors](https://replit.com/@rkgallaway/class-07-constructors#index.js)
+
 ### Students will be able to
 
 #### Describe and Define

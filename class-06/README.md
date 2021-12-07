@@ -4,6 +4,9 @@
 
 ## Learning Objectives
 
+### repls
+- [Class-05 Review](https://replit.com/@rkgallaway/201-class-05-review-functions-and-arrays#index.js)
+
 ### Students will be able to
 
 #### Describe and Define
