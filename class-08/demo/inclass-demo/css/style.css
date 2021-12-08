@@ -1,0 +1,20 @@
+* {
+  background-color: bisque;
+}
+
+/* HOW to add google font here */
+h1 {
+  text-align: center;
+  font-size: 3em;
+  /* https://fonts.google.com/specimen/Fuzzy+Bubbles */
+  font-family: 'Fuzzy Bubbles', cursive;
+}
+
+table {
+  border: 1px solid black;
+}
+
+td, th {
+  border: 1px solid black;
+  padding: 10px;
+}
