@@ -42,7 +42,7 @@ function handleSubmit(event){
   event.preventDefault();
   // console.log('hey girl hey!');
 
-  let name = event.target.name.value;
+  let name = event.target.fullname.value;
   console.log('this is the name', name);
 
   let age = +event.target.age.value;
