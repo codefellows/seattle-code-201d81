@@ -111,7 +111,7 @@ Kitten.prototype.render = function() {
   img.setAttribute('src', 'images/' + this.name + '.jpeg');
   img.setAttribute('alt', 'cute picture of ' + this.name + ', who is an orange and white cat. You should really adopt him.');
   article.appendChild(img);
-}
+};
 
 // tell the factory to create a specific kitten, using the new keyword
 const frankie = new Kitten('frankie', ['cuddling', 'chasing string', 'catnip'], true, false, true);
