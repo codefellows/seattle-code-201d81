@@ -1,0 +1,53 @@
+* {
+  background-color: bisque;
+}
+
+/* HOW to add google font here */
+h1 {
+  text-align: center;
+  font-size: 3em;
+  /* https://fonts.google.com/specimen/Fuzzy+Bubbles */
+  font-family: 'Fuzzy Bubbles', cursive;
+}
+
+h2 {
+  font-size: 2em;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+main {
+  margin-left: 45px;
+}
+
+#kittens-profiles h2 {
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+#kittens-profiles h3 {
+  font-size: 1.5em;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+#kittens-profiles img {
+  margin-top: 30px;
+}
+
+table {
+  margin-top: 30px;
+  border: 1px solid black;
+}
+
+th {
+  font-weight: bolder;
+}
+
+td, th {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+footer {
+  margin-left: 45px;
+}
