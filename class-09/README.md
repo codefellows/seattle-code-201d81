@@ -4,6 +4,11 @@
 
 ## Learning Objectives
 
+### Code Pen
+
+- [Class-08 Review](https://codepen.io/rkgallaway/pen/vYyLmMV)
+- [More 2-d arrays](https://replit.com/@rkgallaway/class-09-2d-array#index.js)
+
 ### Students will be able to
 
 #### Describe and Define
