@@ -4,6 +4,12 @@
 
 ## Learning Objectives
 
+### repls
+
+- [Class 09 Review](https://replit.com/@rkgallaway/class-09-review-event-handling-and-form)
+- [Debugging Repl WITH ERRORS](https://replit.com/@rkgallaway/Class-10-debugging#index.js)
+- [Debugging Repl SOLUTION](https://replit.com/@rkgallaway/Class-10-debugging-solution#index.js)
+
 ### Students will be able to
 
 #### Describe and Define
