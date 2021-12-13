@@ -2,6 +2,25 @@
 
 <!-- Description Here -->
 
+### Feedback
+
+#### Overall 
+
+- Good, hard, but eye opening, learned a lot
+
+#### Pros
+
+- collaboration
+- code review / hearing terminology
+- time notes in Zoom Chat
+- Instructional Staff / TAs
+
+#### Cons
+
+- life didn't stop during Salmon Cookies
+- hard
+- critical of ourselves
+
 ## Learning Objectives
 
 ### Students will be able to
