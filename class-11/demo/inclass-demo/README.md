@@ -28,6 +28,39 @@ after choosing your favorite goat 15 times, the voting session will conclude, th
 
 #### What Do We Need?
 
+// global variables
+// array - all goats array and things
+// global counter - number of clicks allowed (15) 
+// window into the DOM.  declare a container variable and assign an element
+// window into the dom for the 2 images: images hard coded in HTML with ids of img-one and img-two
+
+// constructor - for each goats
+// image source - base on the goat name
+// name
+// number of views of the image
+// number of clicks or "votes"
+// push into allGoats array
+
+// functions:
+// random number generator to get random index - SO we can show TWO DIFFERENT random goats
+// validation / control flow - index is unique identifier.  if goatOne is the same as a goatTwo, get a different goat for goatTwo
+// SPOILER - use loop to see if the single thing is already in the collection.  the collection === an array.  ask yourself:  how do you tell if something is inculded in an array?  array method WORKS WELL
+// once we have two unique goatswe:  display the two images
+// how to display images?  
+// CHANGE ATTRIBUTES:  src, alt
+
+
+
+// event handler #1
+// triggered everytime we have a click, and shut off when we hit 15 clciks
+// what happens when clicked?
+// make note of the views, the clicks, and rerender
+// when we hit 15 - dont allow any more clicks / views / votes
+
+// event listener  #1
+
+// another event cycle for the button once 15 clicks happen.  render list of results when button clicked
+
 
 
 

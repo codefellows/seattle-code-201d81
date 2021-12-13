@@ -2,26 +2,14 @@
 
 <!-- Description Here -->
 
-### Feedback
-
-#### Overall 
-
-- Good, hard, but eye opening, learned a lot
-
-#### Pros
-
-- collaboration
-- code review / hearing terminology
-- time notes in Zoom Chat
-- Instructional Staff / TAs
-
-#### Cons
-
-- life didn't stop during Salmon Cookies
-- hard
-- critical of ourselves
-
 ## Learning Objectives
+
+### repl, codePen, flexbox froggy
+
+- [Class-10 Review](https://codefellows.github.io/code-201-guide/curriculum/class-10/warm-up/)
+- [CSS Flex Code Pen](https://codepen.io/rkgallaway/pen/QWqGeGK)
+- [Array Method Repl](https://replit.com/@rkgallaway/class-11-201d81-more-array-methods#index.js)
+- [Flex Box Froggy](https://flexboxfroggy.com/)
 
 ### Students will be able to
 
