@@ -64,6 +64,8 @@ function renderGoatChart() {
 
   //labels for chart
   let goatNames = [];
+
+  // values for datasets
   let goatVotes = [];
   let goatViews = [];
 
